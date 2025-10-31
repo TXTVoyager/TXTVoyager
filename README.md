@@ -34,7 +34,8 @@ I’m open to collaborating on exciting projects in:
 ---
 
 <p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Code GIF"/></p>
-### 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <b>Mobile & Native</b><br>
@@ -64,6 +65,7 @@ I’m open to collaborating on exciting projects in:
   <b>Version Control</b><br>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Git" width="50" height="50"/></a>
 </p>
+
 ---
 
 ## 🧩 Featured Project
