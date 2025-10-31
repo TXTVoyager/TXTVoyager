@@ -33,13 +33,7 @@ I’m open to collaborating on exciting projects in:
 
 ---
 
-## 🧰 Tech Stack
-Absolutely! We can **style the tech stack more visually appealing** by grouping them in categories and optionally adding a subtle **coding GIF** at the top for a modern touch. Here’s a refined version:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVc9g7g4T2l8Jq/giphy.gif" width="100" alt="Coding GIF"/>
-</p>
-
+<p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Code GIF"/></p>
 ### 🛠️ Tech Stack
 
 <p align="center">
