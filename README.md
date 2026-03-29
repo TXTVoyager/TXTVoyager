@@ -18,7 +18,7 @@ I’m an Indian **Computer Engineer**, **Economist**, **Researcher**, and **Auth
 * Architect scalable **Mobile Solutions** for Android & iOS
 * Develop **Machine Learning** and **Data Science** applications in Python
 * Build **Cross-Platform Apps** using **React & React Native**
-* Research the intersections of **AI**, **Economics**, and **Sustainable Technologies**
+* Research at the intersections of **AI**, **Economics**, and **Sustainable Technologies**
 
 ---
 
